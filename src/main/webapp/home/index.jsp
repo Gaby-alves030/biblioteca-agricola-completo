@@ -8,6 +8,6 @@
         <title>Exemplo de Visão - View</title>
     </head>
     <body>
-        <h1>Dalton - Lista de livros agrícolas - biblioteca da Fatec Pompeia</h1>
+        <h1> Gaby Alves- Lista de livros agrícolas - biblioteca da Fatec Pompeia</h1>
     </body>
 </html>
